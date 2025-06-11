@@ -25,8 +25,6 @@
 | `requirements.txt` | Python dependencies |
 | `README.md` | Project documentation |
 
-## 📸 Screenshot
-
 
 
 ## ⚙️ Installation & Usage
